@@ -1,1 +1,1 @@
-This is a REAME file
+This is a README file
